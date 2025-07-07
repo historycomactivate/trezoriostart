@@ -1,1 +1,1 @@
-# IJ Start Canon TS3522 Printer Setup Guide
+# How to Set Up Your Trezor Wallet Using trezor.io/start
